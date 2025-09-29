@@ -1,0 +1,59 @@
+{
+  "projects": [
+    {
+      "name": "Proyecto 1",
+      "description": "Demo actualizado",
+      "active": false,
+      "createdAt": "2025-09-27T21:09:10.336Z",
+      "updatedAt": "2025-09-29T07:59:59.817Z",
+      "id": 1,
+      "members": [
+        "ale@gmail.com"
+      ]
+    },
+    {
+      "name": "Proyecto 2",
+      "description": "Prueba",
+      "active": false,
+      "createdAt": "2025-09-27T21:47:13.176Z",
+      "updatedAt": "2025-09-29T07:56:15.880Z",
+      "id": 2
+    },
+    {
+      "name": "diseño",
+      "description": "blablabla",
+      "duration": "2 dias",
+      "phases": [
+        {
+          "id": 1759132721742,
+          "name": "investigacion",
+          "doneBy": [
+            "ale@gmail.com"
+          ]
+        },
+        {
+          "id": 1759132721743,
+          "name": "diseño",
+          "doneBy": [
+            "ale@gmail.com"
+          ]
+        },
+        {
+          "id": 1759132721744,
+          "name": "planeacion",
+          "doneBy": [
+            "ale@gmail.com"
+          ]
+        }
+      ],
+      "members": [
+        "ale@gmail.com"
+      ],
+      "active": false,
+      "createdAt": "2025-09-29T07:58:41.753Z",
+      "updatedAt": "2025-09-29T07:59:44.419Z",
+      "id": 3
+    }
+  ],
+  "tasks": []
+}
